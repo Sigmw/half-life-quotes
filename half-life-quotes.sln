@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "half-life-quotes", "half-life-quotes\half-life-quotes.fsproj", "{90FCE67C-99F0-4317-849E-DBAD58EE2099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FCE67C-99F0-4317-849E-DBAD58EE2099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FCE67C-99F0-4317-849E-DBAD58EE2099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FCE67C-99F0-4317-849E-DBAD58EE2099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FCE67C-99F0-4317-849E-DBAD58EE2099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37962398-F36E-4405-A2FF-4E12195C5625}
+	EndGlobalSection
+EndGlobal
